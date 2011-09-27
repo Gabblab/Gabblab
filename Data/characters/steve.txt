@@ -1,0 +1,199 @@
+[ACCOUNT]
+character-username = steve
+[CHARACTER]
+character-height = 0
+character-posx = 3088
+character-posy = 3493
+character-rights = 2
+crystal-bow-shots = 0
+VLS-hits = 0
+skull-timer = -1
+[AGILITY]
+ag1 = 0
+ag2 = 0
+ag3 = 0
+ag4 = 0
+ag5 = 0
+ag6 = 0
+KC =0
+totalstored = 0
+DC =4
+Used-Pure = 0
+catChosen = 0
+has-npc = false
+EP = 0
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+gwdelay = 0
+Altar = 0
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+pk-points = 0
+mb-points = 0
+isDonator = 1
+slayerTask = 0
+xpLock = false
+Agrith = false
+Flambeed = false
+Karamel = false
+Dessourt = false
+culin = false
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+trade11 = 0
+SpeDelay = 0
+barrowskillcount = 0
+flagged = false
+Jailed = false
+wave = 0
+fightMode = 0
+lastsummon = -1
+summoningnpcid = 0
+Monkey-Kc = 0
+void = 0	0	0	0	0
+dungpoints = 0
+[EQUIPMENT]
+character-equip = 0	1042	1	
+character-equip = 1	15121	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	6
+character-look = 2	22
+character-look = 3	26
+character-look = 4	33
+character-look = 5	38
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	2
+character-look = 10	6
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	7	800
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	11	1564
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	9999999
+character-item = 1	4152	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	18033294915
+character-friend = 1	722469553
+
+[STORED]
+stored = 0	0
+stored = 1	0
+stored = 2	0
+stored = 3	0
+stored = 4	0
+stored = 5	0
+stored = 6	0
+stored = 7	0
+stored = 8	0
+stored = 9	0
+stored = 10	0
+stored = 11	0
+stored = 12	0
+stored = 13	0
+stored = 14	0
+stored = 15	0
+stored = 16	0
+stored = 17	0
+stored = 18	0
+stored = 19	0
+stored = 20	0
+stored = 21	0
+stored = 22	0
+stored = 23	0
+stored = 24	0
+stored = 25	0
+stored = 26	0
+stored = 27	0
+stored = 28	0
+
+[OCCUPY]
+occupy = 0	false
+occupy = 1	false
+occupy = 2	false
+occupy = 3	false
+occupy = 4	false
+occupy = 5	false
+occupy = 6	false
+occupy = 7	false
+occupy = 8	false
+occupy = 9	false
+occupy = 10	false
+occupy = 11	false
+occupy = 12	false
+occupy = 13	false
+occupy = 14	false
+occupy = 15	false
+occupy = 16	false
+occupy = 17	false
+occupy = 18	false
+occupy = 19	false
+occupy = 20	false
+occupy = 21	false
+occupy = 22	false
+occupy = 23	false
+occupy = 24	false
+occupy = 25	false
+occupy = 26	false
+occupy = 27	false
+occupy = 28	false
+
+[EOF]
+
